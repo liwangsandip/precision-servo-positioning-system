@@ -2,6 +2,9 @@
 
 **ServoTrack** — A mechatronic control system demonstrating manual sensor-driven control and setpoint-based position locking using an Arduino Uno, potentiometer, push button, and servo motor.
 
+## Demo
+📹 [Watch the working system in action](./demo.mp4)
+
 ![Circuit Diagram](ServoTrack.png)
 
 ---
